@@ -29,7 +29,11 @@ Requerimientos:
 
 | Criterio                   | Puntaje |
 | -------------------------- | ------- |
-| Diseño Responsive          | 2       |
-| HTML Semántico             | 1       |
-| Funcionalidad              | 1.5     |
-| Despliegue en Github Pages | 0.5     |
+| Diseño Responsive          | 1.3/2       |
+| HTML Semántico             | 1/1       |
+| Funcionalidad              | 1/1.5     |
+| Despliegue en Github Pages | 0.5/0.5     |
+
+Nota parcial: 3.8 x 0.8 -> 3.00
+![image](https://github.com/DSAW-2024-1/parcial-sobre-4-DNico21/assets/50994778/c8720e64-aa9d-468c-a4b0-8a29ede4ffa8)
+
